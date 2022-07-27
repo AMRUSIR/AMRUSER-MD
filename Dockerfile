@@ -1,8 +1,9 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/AMRUSIR/AMRUSER-MD /root/PrinceRudh
+RUN git clone https://github.com/AMRUSIR/AMRUSER-MD /root/Amru
 
-WORKDIR /root/PrinceRudh/
+
+WORKDIR /root/Amru/
 
 RUN apt-get update && \
   apt-get install -y \
