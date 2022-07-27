@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/princerudh-prh/prince-rudh-md /root/PrinceRudh
+RUN git clone https://github.com/AMRUSIR/AMRUSER-MD /root/PrinceRudh
 
 WORKDIR /root/PrinceRudh/
 
