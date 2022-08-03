@@ -16,7 +16,7 @@
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
+            "value": "AMRU"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -26,7 +26,7 @@
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "PƦł₦₡EƦUÐҤ"
+            "value": "AMRUSER-MD"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -77,12 +77,12 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "princerudh33@gmail.com"
+            "value": "User name.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/princerudh"
+            "value": "https://youtube.com/c/user name"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
@@ -92,17 +92,17 @@
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/princerudh/"
+            "value": "https://www.instagram.com/its_me_dron/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "PƦł₦₡EƦUÐҤ"
+            "value": "AMRUSER"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ᴘʀɪɴᴄᴇ ʀᴜᴅʜ"
+            "value": "AMRUSER"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
@@ -170,7 +170,7 @@
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
             "required": false,
-            "value": "prh"
+            "value": "amr"
         }
 	},
 	
